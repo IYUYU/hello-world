@@ -1,2 +1,3 @@
 # hello-world
-just for start
+只是为了开始
+保持 study
